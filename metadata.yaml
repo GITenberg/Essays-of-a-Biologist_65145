@@ -1,11 +1,16 @@
 _repo: Essays-of-a-Biologist_65145
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65145-h/images/cover.jpg
 creator:
   author:
     agent_name: Huxley, Julian
     gutenberg_agent_id: '53202'
     url: http://www.gutenberg.org/2009/agents/53202
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65145#Essays-of-a-Biologist
 gutenberg_issued: '2021-04-23'
 gutenberg_type: Text
 identifiers:
